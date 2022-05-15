@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidpios&label=Profile%20views&color=0e75b6&style=flat" alt="dawidpios" /> </p>
 
-- 🔭 I’m currently working on **Easy Travel**
+<p align="center">🔭 I’m currently working on **Easy Travel**</p>
 
-- 🌱 I’m currently learning **TypeScript**
+<p align="center">🌱 I’m currently learning **TypeScript**</p>
 
-- 📫 How to reach me **dawid.pios00@gmail.com**
+<p align="center">📫 How to reach me **dawid.pios00@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
