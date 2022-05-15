@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Junior Front-end Developer</h3>
-<img align="right" alt="logo" width="400" src="https://preview.redd.it/gkrt1frmvcb41.jpg?width=640&crop=smart&auto=webp&s=c4e947b2f12c602e03130128d48cbbd8081f23bc">
+<img align="center" alt="logo" width="400" src="https://preview.redd.it/gkrt1frmvcb41.jpg?width=640&crop=smart&auto=webp&s=c4e947b2f12c602e03130128d48cbbd8081f23bc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidpios&label=Profile%20views&color=0e75b6&style=flat" alt="dawidpios" /> </p>
 
